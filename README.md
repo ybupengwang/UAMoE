@@ -8,5 +8,5 @@ Environment
 
 Dataset
 -ISBI 2015 and Hand X-ray. The dataset needs to be downloaded by yourself.
-https://figshare.com/s/37ec464af8e81ae6ebbf
-https://ipilab.usc.edu/research/baaweb/
+-ISBI 2015：https://figshare.com/s/37ec464af8e81ae6ebbf
+-Hand X-ray：https://ipilab.usc.edu/research/baaweb/
